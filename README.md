@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+< I'm a sophomore at UNC Chapel Hill majoring in computer Science. I want to be a software engineer. I'm interested in machine learning, AI and Cybersecurity.>
+
+## Skills
+
+### Classes
+< I've taken/taking COMP 110, COMP210, COMP290, COMP126. >
+
+### Tools and Programming Languages
+< Python, HTML, CSS, java* >
