@@ -219,50 +219,15 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 <br/>
 
 ---
-
-## <img src="https://img.icons8.com/fluency/28/000000/combo-chart.png"/> GitHub Analytics
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=humzahassan1&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=humzahassan1&theme=radical&hide_border=true&background=0F0524&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahassan1&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&text_color=E9D5FF"/>
-</div>
-<br/>
-
----
-
-## <img src="https://img.icons8.com/fluency/28/000000/activity-history.png"/> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=humzahassan1&theme=react-dark&bg_color=0F0524&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
 ## <img src="https://img.icons8.com/fluency/28/000000/idea.png"/> Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Advanced real-time rendering & procedural generation techniques
-    - Applied machine learning for production environments
-    - Scalable backend architecture and secure API design
-  building:
-    - Frosthelm - expanding procedural systems and gameplay depth
-    - CI/CD tooling to streamline pipeline performance
-  exploring:
-    - Game engine architecture and WebGL/Three.js performance
-    - Applied geospatial data science
-  open_to:
-    - Software Engineering internships (2027)
-    - Game / graphics dev collaborations
-    - Applied ML side projects
-```
+Learning: Advanced real-time rendering & procedural generation techniques, applied machine learning for production environments, scalable backend architecture and secure API design
+
+Building: Frosthelm — expanding procedural systems and gameplay depth; CI/CD tooling to streamline pipeline performance
+
+Exploring: Game engine architecture and WebGL/Three.js performance, applied geospatial data science
+
+Open to: Software Engineering internships (2027), game/graphics dev collaborations, applied ML side projects
 
 <br/>
 
