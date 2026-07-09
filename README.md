@@ -40,7 +40,7 @@ I'm a rising senior at **UNC Chapel Hill** studying **Computer Science** with a 
 
 I've shipped a production lead-tracking platform with enterprise authentication and authorization hardening, built a fully procedural 3D browser game from scratch with Three.js, and applied classical ML (Random Forest, XGBoost) to real geospatial datasets. I like taking a project from empty repo to something people can actually open and use.
 
-My focus areas are full-stack systems engineering with production-grade auth and data handling, real-time browser experiences with procedural generation, applied machine learning for geospatial and data-driven problems, and product-minded engineering — shipping tools real users and players depend on. My approach in one line: **build things that ship, secure things that scale.**
+My focus areas are full-stack systems engineering with production-grade auth and data handling, real-time browser experiences with procedural generation, applied machine learning for geospatial and data-driven problems, and product-minded engineering, shipping tools real users and players depend on. My approach in one line: **build things that ship, secure things that scale.**
 
 <br/>
 
@@ -261,7 +261,7 @@ current_focus:
     - Applied machine learning for production environments
     - Scalable backend architecture and secure API design
   building:
-    - Frosthelm — expanding procedural systems and gameplay depth
+    - Frosthelm - expanding procedural systems and gameplay depth
     - CI/CD tooling to streamline pipeline performance
   exploring:
     - Game engine architecture and WebGL/Three.js performance
