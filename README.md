@@ -211,11 +211,8 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Compete-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/humzahassan1)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/humzahassan1)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/humzahassan1228)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/humzahassan1)
 
-<sub>*Update these links if your handles differ from your GitHub username.*</sub>
 
 </div>
 
@@ -227,12 +224,9 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=humzahassan1&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=humzahassan1&theme=radical&hide_border=true&background=0F0524&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahassan1&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&text_color=E9D5FF"/>
 
 </div>
 
