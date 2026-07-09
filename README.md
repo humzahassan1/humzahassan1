@@ -154,7 +154,7 @@ This project combines public USGS geological survey data with classical ML class
 <br/>
 
 A web-based tool focused on optimizing CI/CD pipeline performance.
-
+link: https://ci-optimizer-web.vercel.app/
 | Attribute | Detail |
 |---|---|
 | **Stack** | React, TypeScript, Vite |
