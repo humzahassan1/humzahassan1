@@ -212,7 +212,7 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Compete-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/humzahassan1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/humzahassan1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/humzahassan1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/humzahassan1228)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Contests-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/humzahassan1)
 
 <sub>*Update these links if your handles differ from your GitHub username.*</sub>
