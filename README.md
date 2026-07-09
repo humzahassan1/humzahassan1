@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B4E,100:4C1D95&height=280&section=header&text=Rafsan%20Arman&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=A78BFA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B4E,100:4C1D95&height=280&section=header&text=Humza%20Hassan&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20Game%20Dev%20%7C%20Applied%20ML&descAlignY=55&descSize=18&descColor=A78BFA"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Red+Hat;Full+Stack+%2B+AI%2FML+Engineer;Building+Production-Grade+Systems;UNC+Chapel+Hill+%E2%80%94+Class+of+2027&font=Fira+Code&center=true&width=650&height=50&color=C4B5FD&vCenter=true&size=24&pause=1500&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Intern+%40+Vogro;Full+Stack+%2B+Game+Developer;Building+Systems+That+Ship;UNC+Chapel+Hill+%E2%80%94+Class+of+2027&font=Fira+Code&center=true&width=650&height=50&color=C4B5FD&vCenter=true&size=24&pause=1500&background=00000000" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,20 +11,20 @@
 [![University](https://img.shields.io/badge/UNC%20Chapel%20Hill-B.S.%20Computer%20Science-4C1D95?style=for-the-badge&logo=readthedocs&logoColor=C4B5FD&labelColor=0F0524)](https://www.unc.edu/)
 [![Minor](https://img.shields.io/badge/Minor-Data%20Science-6D28D9?style=for-the-badge&logo=googleanalytics&logoColor=C4B5FD&labelColor=0F0524)]()
 [![Grad](https://img.shields.io/badge/Graduating-May%202027-7C3AED?style=for-the-badge&logo=googlecalendar&logoColor=C4B5FD&labelColor=0F0524)]()
-[![Location](https://img.shields.io/badge/Based%20in-Raleigh,%20NC-8B5CF6?style=for-the-badge&logo=mapbox&logoColor=C4B5FD&labelColor=0F0524)]()
+[![Location](https://img.shields.io/badge/Chapel%20Hill,%20NC-8B5CF6?style=for-the-badge&logo=mapbox&logoColor=C4B5FD&labelColor=0F0524)]()
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://humza-portfolio-beta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humza-hassan1)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humzahassan1228@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humzahassan1)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=8b5cf6&style=for-the-badge&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=a78bfa&style=for-the-badge&label=TOTAL+STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=humzahassan1&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/humzahassan1?color=8b5cf6&style=for-the-badge&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/humzahassan1?color=a78bfa&style=for-the-badge&label=TOTAL+STARS&logo=github)
 
 </div>
 
@@ -37,22 +37,22 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/rajatengg/rajatengg/master/programming.gif">
 
 ```yaml
-name: "Rafsan Arman"
-role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
+name: "Humza Hassan"
+role: "Software Engineer | Full Stack + Game Developer | Applied ML"
 education: "B.S. Computer Science, Data Science Minor @ UNC Chapel Hill"
 graduation: "May 2027"
-current: "Software Engineering Intern @ Red Hat"
+current: "Software Engineering Intern @ Vogro"
 focus:
-  - Full-stack systems engineering with production-grade security
-  - Applied machine learning for real-world geospatial & data problems
-  - Product-minded engineering — shipping tools real users depend on
-  - Clean architecture, authentication/authorization, and API design
+  - Full-stack systems engineering with production-grade auth & data handling
+  - Real-time browser experiences with procedural generation (Three.js)
+  - Applied machine learning for geospatial and data-driven problems
+  - Product-minded engineering — shipping tools real users and players depend on
 philosophy: "Build things that ship, secure things that scale."
 ```
 
-I'm a rising senior at **UNC Chapel Hill** studying **Computer Science** with a **Data Science minor**, currently working as a **Software Engineering Intern at Red Hat**. My engineering interests sit at the intersection of **full-stack development**, **applied AI/ML systems**, and **developer tooling** — I like building software that solves a concrete problem for a real user, end to end: schema to API to interface.
+I'm a rising senior at **UNC Chapel Hill** studying **Computer Science** with a **Data Science minor**, currently working as a **Software Engineering Intern at Vogro**, a Stanford-affiliated nonprofit. My work spans **full-stack product engineering**, **real-time browser graphics/game development**, and **applied machine learning**.
 
-I've shipped production systems handling authentication (OAuth/JWT), authorization hardening (IDOR protection), and third-party integrations, and I've applied classical ML (Random Forest, XGBoost) to real geospatial datasets for applied research. I care about **security-first engineering**, **clean system design**, and writing code that is boring in the best way — predictable, tested, and maintainable.
+I've shipped a production lead-tracking platform with enterprise authentication and authorization hardening, built a fully procedural 3D browser game from scratch with Three.js, and applied classical ML (Random Forest, XGBoost) to real geospatial datasets. I like taking a project from empty repo to something people can actually open and use.
 
 <br/>
 
@@ -60,10 +60,10 @@ I've shipped production systems handling authentication (OAuth/JWT), authorizati
 
 ### 🎯 Open To
 
-[![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20New%20Grad%20Roles-4C1D95?style=flat-square&logo=briefcase&logoColor=white)]()
-[![Open to Work](https://img.shields.io/badge/Open%20To-AI%2FML%20Engineering-6D28D9?style=flat-square&logo=openai&logoColor=white)]()
-[![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Roles-7C3AED?style=flat-square&logo=react&logoColor=white)]()
-[![Open to Work](https://img.shields.io/badge/Open%20To-Summer%202027%20Internships-8B5CF6?style=flat-square&logo=sun&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-4C1D95?style=flat-square&logo=briefcase&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Roles-6D28D9?style=flat-square&logo=react&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/Open%20To-Game%20%2F%20Graphics%20Dev-7C3AED?style=flat-square&logo=threedotjs&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/Open%20To-Applied%20ML%20Projects-8B5CF6?style=flat-square&logo=openai&logoColor=white)]()
 
 </div>
 
@@ -81,9 +81,9 @@ I've shipped production systems handling authentication (OAuth/JWT), authorizati
 
 <br/><br/>
 
-**Frontend**
+**Frontend & Graphics**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vue,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vue,vite&theme=dark" />
 
 <br/><br/>
 
@@ -110,10 +110,9 @@ I've shipped production systems handling authentication (OAuth/JWT), authorizati
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | **Machine Learning** | ⭐⭐⭐⭐☆ | Random Forest & XGBoost classifiers applied to geospatial mineral-prospectivity mapping using USGS datasets |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | Feature engineering, geospatial data pipelines, structured dataset preparation for classification tasks |
-| **Full-Stack AI Integration** | ⭐⭐⭐⭐☆ | Building production applications that embed ML inference and automation into user-facing workflows |
-| **RAG & Agentic Systems** | ⭐⭐⭐☆☆ | Ongoing work with retrieval-augmented pipelines and agentic tool-use architectures |
-| **Applied Research** | ⭐⭐⭐⭐☆ | End-to-end ML research artifact built as an applied case study for a YC-backed AI startup application |
+| **Data Engineering** | ⭐⭐⭐⭐☆ | Feature engineering and geospatial data pipeline design for classification tasks |
+| **Full-Stack ML Integration** | ⭐⭐⭐☆☆ | Building applications that embed data-driven logic into production-facing tools |
+| **Procedural Systems** | ⭐⭐⭐⭐☆ | Algorithmic procedural world generation for real-time 3D environments |
 
 </div>
 
@@ -124,21 +123,40 @@ I've shipped production systems handling authentication (OAuth/JWT), authorizati
 ## <img src="https://img.icons8.com/fluency/28/000000/rocket.png"/> Featured Projects
 
 <details>
+<summary><b>❄️ Frosthelm — Procedural Dark-Fantasy Browser Citadel</b></summary>
+<br/>
+
+A dark-fantasy Nordic citadel rendered fully in the browser, with a fully procedural world and persistent cloud saves.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | TypeScript, Three.js, Supabase (cloud saves), Vercel |
+| **Scale** | Fully procedural world generation — no two sessions load the same citadel |
+| **Performance** | Real-time 3D rendering in-browser via Three.js |
+| **Security** | Supabase-backed cloud save persistence per user |
+| **Impact** | Live, playable browser game shipped and deployed publicly |
+| **Repository** | [github.com/humzahassan1/Frosthelm](https://github.com/humzahassan1/Frosthelm) · [Live Demo](https://frosthelm.vercel.app) |
+
+Frosthelm combines a hand-built procedural generation system with real-time 3D rendering to create a dark-fantasy world that's different every time. Cloud saves via Supabase let players pick up where they left off, and the whole thing runs directly in the browser with no install step.
+
+</details>
+
+<details>
 <summary><b>🏢 EstateLog — Real Estate Lead Tracking Platform</b></summary>
 <br/>
 
-A full-stack lead management platform built for ~15 commercial real estate agents at Coldwell Banker Commercial, featuring secure enterprise authentication, automated email ingestion, and hardened API authorization.
+A full-stack lead management platform built for a commercial real estate team, featuring secure enterprise authentication, automated email ingestion, and hardened API authorization.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | React, Node.js, Express, PostgreSQL (Supabase), Microsoft OAuth, JWT |
-| **Scale** | Deployed for ~15 active commercial real estate agents |
+| **Scale** | Deployed for a team of active commercial real estate agents |
 | **Performance** | Automated Outlook email scraper for real-time lead ingestion |
 | **Security** | Microsoft OAuth 2.0, JWT-based session auth, IDOR (Insecure Direct Object Reference) protection across all data access endpoints |
 | **Impact** | Replaced manual lead tracking with an automated, centralized pipeline for an active sales team |
-| **Repository** | [github.com/YOUR_USERNAME/estatelog](https://github.com/YOUR_USERNAME/estatelog) |
+| **Repository** | [github.com/humzahassan1/estatelog](https://github.com/humzahassan1/estatelog) |
 
-EstateLog was designed as a production-grade internal tool rather than a demo: it handles multi-tenant agent data with strict authorization boundaries, ingests leads automatically from Outlook via a custom scraper, and is deployed across Railway (backend), Vercel (frontend), and Supabase (database/auth) for a fully managed, scalable deployment.
+EstateLog was built as a production-grade internal tool: it handles multi-tenant agent data with strict authorization boundaries, ingests leads automatically from Outlook via a custom scraper, and is deployed across Railway (backend), Vercel (frontend), and Supabase (database/auth).
 
 </details>
 
@@ -146,7 +164,7 @@ EstateLog was designed as a production-grade internal tool rather than a demo: i
 <summary><b>⛏️ Uranium Prospectivity Mapping — Applied Geospatial ML</b></summary>
 <br/>
 
-A machine learning research project predicting uranium mineral prospectivity across the United States using public USGS geospatial datasets, built as an applied research artifact.
+A machine learning research project predicting uranium mineral prospectivity across the United States using public USGS geospatial datasets.
 
 | Attribute | Detail |
 |---|---|
@@ -154,22 +172,29 @@ A machine learning research project predicting uranium mineral prospectivity acr
 | **Scale** | National-level geospatial dataset spanning multiple geological feature layers |
 | **Performance** | Comparative evaluation of Random Forest and XGBoost classifiers on prospectivity prediction |
 | **Security** | N/A — research/data science artifact |
-| **Impact** | Built as a technical case study demonstrating applied ML on real-world geospatial and mineral-exploration data |
-| **Repository** | [github.com/YOUR_USERNAME/uranium-prospectivity-mapping](https://github.com/YOUR_USERNAME/uranium-prospectivity-mapping) |
+| **Impact** | Applied research artifact translating open geospatial data into a predictive model |
+| **Repository** | [github.com/humzahassan1/uranium-prospectivity-mapping](https://github.com/humzahassan1/uranium-prospectivity-mapping) |
 
-This project combines public USGS geological survey data with classical ML classifiers to model mineral prospectivity, translating open geospatial datasets into an actionable predictive signal — an exercise in taking messy, real-world scientific data from raw form to a trained, evaluated model.
+This project combines public USGS geological survey data with classical ML classifiers to model mineral prospectivity — taking messy, real-world scientific data from raw form to a trained, evaluated model.
 
 </details>
 
 <details>
-<summary><b>🧩 Additional Projects</b></summary>
+<summary><b>⚙️ CI Optimizer — CI/CD Pipeline Optimization Tool</b></summary>
 <br/>
 
-| Project | Description | Repository |
-|---|---|---|
-| **Kudo** | Chrome extension pairing Google Calendar with positive-reinforcement habit tracking | [Repo](https://github.com/YOUR_USERNAME/kudo) |
-| **2048 Arcade Edition** | Custom-built 2048 game variant, deployed via GitHub Pages | [Repo](https://github.com/YOUR_USERNAME/2048-arcade) |
-| **Mosque Website** | Public-facing website for the Islamic Society of the Carolinas | [Repo](https://github.com/YOUR_USERNAME/isotc-website) |
+A web-based tool focused on optimizing CI/CD pipeline performance.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | React, TypeScript, Vite |
+| **Scale** | _Add details_ |
+| **Performance** | _Add details_ |
+| **Security** | _Add details_ |
+| **Impact** | _Add details_ |
+| **Repository** | [github.com/humzahassan1/ci-optimizer-web](https://github.com/humzahassan1/ci-optimizer-web) |
+
+<sub>*Flesh out the scale/performance/impact rows with specifics whenever you're ready — happy to rewrite this section once you share more detail.*</sub>
 
 </details>
 
@@ -179,40 +204,16 @@ This project combines public USGS geological survey data with classical ML class
 
 ## <img src="https://img.icons8.com/fluency/28/000000/organization.png"/> Experience
 
-### Software Engineering Intern — Red Hat
-**Raleigh, NC · Summer 2026**
-
-Working as a Software Engineering Intern at Red Hat, contributing to internal engineering systems as part of a structured internship program.
-
-- Onboarded into enterprise engineering workflows and internal tooling
-- Collaborated cross-functionally within a large-scale open-source-driven organization
-- Applied production engineering standards to real internal codebases
-
-`Software Engineering` `Enterprise Systems` `Open Source` `Collaboration`
-
-<br/>
-
-### Software Engineering Experience — Vogro
+### Software Engineering Intern — Vogro
 **Stanford-affiliated Nonprofit**
 
-Contributed engineering work to Vogro, a Stanford-affiliated nonprofit initiative.
+Working as a Software Engineering Intern at Vogro, contributing engineering work to a mission-driven nonprofit product.
 
-- Built and supported software features for a mission-driven nonprofit product
+- Built and supported software features for a nonprofit product used by real stakeholders
 - Worked within a small, high-ownership engineering environment
+- Collaborated cross-functionally in a lean, fast-moving team
 
 `Full Stack Development` `Nonprofit Tech` `Product Engineering`
-
-<br/>
-
-### Teaching Assistant — Introductory Programming
-**UNC Chapel Hill**
-
-Served as a Teaching Assistant for an introductory programming course.
-
-- Guided students through foundational programming concepts and debugging
-- Held office hours and graded assignments with a focus on clear, constructive feedback
-
-`Mentorship` `Programming Fundamentals` `Communication`
 
 <br/>
 
@@ -224,10 +225,10 @@ Served as a Teaching Assistant for an introductory programming course.
 
 | Recognition | Details |
 |---|---|
-| 🎓 **Software Engineering Internship — Red Hat** | Selected for a competitive summer 2026 internship at a leading enterprise open-source company |
-| 🏗️ **EstateLog Deployment** | Built and deployed a production tool actively used by ~15 real estate agents |
-| 🔬 **Applied ML Research Artifact** | Built a full geospatial ML pipeline as an application case study for a YC-backed AI startup |
-| 📚 **Teaching Assistant Role** | Selected to TA an introductory programming course at UNC Chapel Hill |
+| ❄️ **Frosthelm Shipped & Deployed** | Built and shipped a fully procedural 3D browser game, live on Vercel |
+| 🏗️ **EstateLog Deployment** | Built and deployed a production tool actively used by a real estate team |
+| 🔬 **Applied ML Research Artifact** | Built a full geospatial ML pipeline for uranium prospectivity mapping |
+| 💼 **Software Engineering Internship — Vogro** | Selected for an internship with a Stanford-affiliated nonprofit |
 
 </div>
 
@@ -239,23 +240,7 @@ Served as a Teaching Assistant for an introductory programming course.
 
 <div align="center">
 
-**Amazon Web Services**
-
-[![AWS](https://img.shields.io/badge/AWS-Certification%20Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-
-**Oracle**
-
-[![Oracle](https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
-
-**NPTEL**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Course%20Name-4C1D95?style=for-the-badge&logo=readthedocs&logoColor=white)]()
-
-**Cisco**
-
-[![Cisco](https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]()
-
-<sub>*Replace badge labels above with your actual certification titles.*</sub>
+<sub>*No certifications added yet — this section is ready whenever you have AWS / Oracle / NPTEL / Cisco (or others) to add.*</sub>
 
 </div>
 
@@ -267,10 +252,12 @@ Served as a Teaching Assistant for an introductory programming course.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Compete-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Compete-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/humzahassan1)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/humzahassan1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/humzahassan1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/humzahassan1)
+
+<sub>*Update these links if your handles differ from your GitHub username.*</sub>
 
 </div>
 
@@ -282,12 +269,12 @@ Served as a Teaching Assistant for an introductory programming course.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0F0524&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=humzahassan1&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=humzahassan1&theme=radical&hide_border=true&background=0F0524&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&text_color=E9D5FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahassan1&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&text_color=E9D5FF"/>
 
 </div>
 
@@ -299,7 +286,7 @@ Served as a Teaching Assistant for an introductory programming course.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=humzahassan1&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
 
 </div>
 
@@ -311,7 +298,7 @@ Served as a Teaching Assistant for an introductory programming course.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0F0524&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=humzahassan1&theme=react-dark&bg_color=0F0524&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true"/>
 
 </div>
 
@@ -323,7 +310,7 @@ Served as a Teaching Assistant for an introductory programming course.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/humzahassan1/humzahassan1/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -336,19 +323,19 @@ Served as a Teaching Assistant for an introductory programming course.
 ```yaml
 current_focus:
   learning:
-    - Advanced distributed systems & scalable backend architecture
-    - Retrieval-Augmented Generation (RAG) and agentic AI system design
+    - Advanced real-time rendering & procedural generation techniques
     - Applied machine learning for production environments
+    - Scalable backend architecture and secure API design
   building:
-    - Full-stack applications with security-first authentication design
-    - AI-integrated tools that solve real, narrow user problems
+    - Frosthelm — expanding procedural systems and gameplay depth
+    - CI/CD tooling to streamline pipeline performance
   exploring:
-    - Developer tooling and internal platform engineering
+    - Game engine architecture and WebGL/Three.js performance
     - Applied geospatial data science
   open_to:
-    - Summer 2027 SWE / AI-ML internships
-    - New grad Software Engineering roles (2027)
-    - Collaborative open-source contributions
+    - Software Engineering internships (2027)
+    - Game / graphics dev collaborations
+    - Applied ML side projects
 ```
 
 <br/>
@@ -359,10 +346,10 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humzahassan1228@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humza-hassan1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humzahassan1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://humza-portfolio-beta.vercel.app/)
 
 </div>
 
