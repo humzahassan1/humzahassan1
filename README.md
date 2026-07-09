@@ -223,13 +223,11 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 ## <img src="https://img.icons8.com/fluency/28/000000/combo-chart.png"/> GitHub Analytics
 
 <div align="center">
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=humzahassan1&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=humzahassan1&theme=radical&hide_border=true&background=0F0524&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6"/>
-
 <br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahassan1&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=C4B5FD&text_color=E9D5FF"/>
 </div>
-
 <br/>
 
 ---
