@@ -36,23 +36,11 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/rajatengg/rajatengg/master/programming.gif">
 
-```yaml
-name: "Humza Hassan"
-role: "Software Engineer | Full Stack + Game Developer | Applied ML"
-education: "B.S. Computer Science, Data Science Minor @ UNC Chapel Hill"
-graduation: "May 2027"
-current: "Software Engineering Intern @ Vogro"
-focus:
-  - Full-stack systems engineering with production-grade auth & data handling
-  - Real-time browser experiences with procedural generation (Three.js)
-  - Applied machine learning for geospatial and data-driven problems
-  - Product-minded engineering — shipping tools real users and players depend on
-philosophy: "Build things that ship, secure things that scale."
-```
-
 I'm a rising senior at **UNC Chapel Hill** studying **Computer Science** with a **Data Science minor**, currently working as a **Software Engineering Intern at Vogro**, a Stanford-affiliated nonprofit. My work spans **full-stack product engineering**, **real-time browser graphics/game development**, and **applied machine learning**.
 
 I've shipped a production lead-tracking platform with enterprise authentication and authorization hardening, built a fully procedural 3D browser game from scratch with Three.js, and applied classical ML (Random Forest, XGBoost) to real geospatial datasets. I like taking a project from empty repo to something people can actually open and use.
+
+My focus areas are full-stack systems engineering with production-grade auth and data handling, real-time browser experiences with procedural generation, applied machine learning for geospatial and data-driven problems, and product-minded engineering — shipping tools real users and players depend on. My approach in one line: **build things that ship, secure things that scale.**
 
 <br/>
 
@@ -73,31 +61,13 @@ I've shipped a production lead-tracking platform with enterprise authentication 
 
 ## <img src="https://img.icons8.com/fluency/28/000000/source-code.png"/> Tech Stack
 
-<div align="center">
+**Languages:** Python, Java, C++, C, JavaScript, TypeScript, Go, HTML, CSS
 
-**Languages**
+**Frontend & Graphics:** React, Next.js, Three.js, Tailwind CSS, Vue, Vite
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css&theme=dark" />
+**Backend & Databases:** Node.js, Express, Django, Flask, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Supabase
 
-<br/><br/>
-
-**Frontend & Graphics**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vue,vite&theme=dark" />
-
-<br/><br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,supabase&theme=dark" />
-
-<br/><br/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,vercel,git,github,linux,postman&theme=dark" />
-
-</div>
+**Cloud, DevOps & Tooling:** AWS, GCP, Docker, Kubernetes, GitHub Actions, Vercel, Git, GitHub, Linux, Postman
 
 <br/>
 
@@ -236,18 +206,6 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/000000/certificate.png"/> Certifications
-
-<div align="center">
-
-<sub>*No certifications added yet — this section is ready whenever you have AWS / Oracle / NPTEL / Cisco (or others) to add.*</sub>
-
-</div>
-
-<br/>
-
----
-
 ## <img src="https://img.icons8.com/fluency/28/000000/medal.png"/> Coding Profiles
 
 <div align="center">
@@ -282,35 +240,11 @@ Working as a Software Engineering Intern at Vogro, contributing engineering work
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/000000/trophy.png"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=humzahassan1&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-
-</div>
-
-<br/>
-
----
-
 ## <img src="https://img.icons8.com/fluency/28/000000/activity-history.png"/> Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=humzahassan1&theme=react-dark&bg_color=0F0524&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://img.icons8.com/fluency/28/000000/snake.png"/> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/humzahassan1/humzahassan1/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
